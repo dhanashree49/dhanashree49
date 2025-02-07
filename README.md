@@ -1,3 +1,4 @@
+![logo](https://github.com/dhanashree49/dhanashree49/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dhanashree kale</h1>
 <h3 align="center">Iam a passionate Aspiring business analyst</h3>
 
